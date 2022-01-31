@@ -1,3 +1,7 @@
+# My self portrait:
+
+<img width="497" alt="Screen Shot 2022-01-31 at 11 20 34" src="https://user-images.githubusercontent.com/90758768/151753493-44503097-e50e-4ebe-a839-1a1f9368e128.png">
+
 # Documentation
 ### My expectations before doing the self-portrait:
 - The idea of doing the self-portrait was really interesting for me, because it allows me to be creative while coding, which is always an exciting experience.
@@ -15,3 +19,75 @@ inverted and gives a funny look, and the problem was that I didn't know how to r
 that way, because I thought that it makes my portrait look a bit more creative.
 - I also loved making the heart shapes for my eyes! It's so interesting that so many things can be done without actually drawing, just by coding at putting coordinates
 together.
+
+# My code:
+function setup() {
+  createCanvas(500, 600);
+}
+
+function draw() {
+  background(255, 143, 133);
+  //hair:
+  noStroke();
+  fill(43,29,20);
+  ellipse(235,210,380,380);
+  arc(235,480,450,450,PI,0);
+  //head shape:
+  stroke(0);
+  fill(255, 236, 209);
+  rect(160,380,150,110); //neck
+  ellipse(235,230,290,370); //head
+  //necklace:
+  fill(255,215,0);
+  ellipse(150,480,30,30);
+  ellipse(180,500,30,30);
+  ellipse(210,500,30,30);
+  ellipse(240,500,30,30);
+  ellipse(270,500,30,30);
+  ellipse(300,480,30,30);
+  fill(165,42,42);
+  arc(100,150,200,25,0,PI/2); //left brow
+  arc(270,150,200,25,3*PI/2,0); //right brow
+  noFill();
+  //glasses, left part:
+  stroke(0);
+  strokeWeight(3.5); //upper part of the glasses is thicker
+  line(107,170,230,170);
+  strokeWeight(1);
+  line(107,170,120,240);
+  line(230,170,215,240);
+  line(120,240,215,240);
+  //glasses, right part:
+  strokeWeight(3.5); //upper part of the glasses is thicker
+  line(250,170,373,170);
+  strokeWeight(1);
+  line(250,170,263,240);
+  line(373,170,353,240);
+  line(263,240,353,240);
+  fill(255);
+  ellipse(170,200,80,40); //left eye
+  ellipse(310,200,80,40); //right eye
+  fill(255,0,0);
+  noStroke();
+  // left eye heart shape:
+  arc(162, 196, 15, 15, PI, 0);
+  arc(177, 196, 15, 15, PI, 0);
+  triangle(155, 196, 185, 196, 170, 210);
+  // right eye heart shape:
+  arc(302, 196, 15, 15, PI, 0);
+  arc(317, 196, 15, 15, PI, 0);
+  triangle(295, 196, 325, 196, 310, 210);
+  stroke(0);
+  noFill();
+  arc(235, 270, 50, 40, 0, PI);
+  //lips:
+  fill(255, 143, 133);
+  stroke(255, 91, 77);
+  arc(220, 336, 30, 30, PI, 0);
+  arc(250, 336, 30, 30, PI, 0);
+  arc(235, 330, 80, 40, 0, PI);
+  //earrings:
+  fill(255,215,0);
+  arc(90,300,30,30,2*PI,0);
+  arc(380,300,30,30,2*PI,0);
+}
