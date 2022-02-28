@@ -5,6 +5,10 @@ I got inspired by the game that I played when I was a child called "Super Cow". 
 someone that took away their land. For my game, I'd like to develop this idea into a game with a main character of a girl, a regular citizen from a country Peaceland, which has been attacked by a violent dictator of a neighbouring country. To save their country, she needs to collect cultural attributes and coins, while destroying aggressive monsters on her way.
 The main character will have 3 lives during the game, and she loses one heart everytime she touches the monster. She can only destroy those monsters by jumping at them. The amount of collected coins and the number of lives left will be displayed on the screen.
 
+## Current Progress:
+I uploaded the font and the characters' sprites by putting them all in one assets folder and under a preload function.
+Link: https://editor.p5js.org/ayedilnaz/sketches/iaIIQcAif
+
 ## Inspiration: Super Cow Game
 ![super-korova-ipad-2](https://user-images.githubusercontent.com/90758768/155983727-6ba45b6a-9f62-48d5-8abb-d6c516621c83.jpg)
 ![scrn_2_super-cow-26751](https://user-images.githubusercontent.com/90758768/155983737-5182f870-ff45-44b7-9f1a-6c6a7c2712d2.png)
