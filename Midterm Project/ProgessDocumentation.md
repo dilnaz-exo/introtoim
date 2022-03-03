@@ -1,5 +1,11 @@
 # DOCUMENTATION OF MY MIDTERM GAME PROGRESS 📌
 
+## Game Link:
+https://editor.p5js.org/ayedilnaz/sketches/iaIIQcAif - link to the main page of my game
+https://editor.p5js.org/ayedilnaz/sketches/SNoxNxA6I - link to the "snake" part of my game
+
+I just need to combine those 2 parts, but for now I don't know how
+
 ## Game Idea:
 I got inspired by the game that I played when I was a child called "Super Cow". In that game, a cow is saving its village and the village habitants from an unknown
 someone that took away their land. For my game, I'd like to develop this idea into a game with a main character of a girl, a regular citizen from a country Peaceland, which has been attacked by a violent dictator of a neighbouring country. To save their country, she needs to collect cultural attributes and coins, while destroying aggressive monsters on her way.
