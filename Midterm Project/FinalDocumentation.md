@@ -74,4 +74,4 @@ This is the screen when the game is lost because character touched the titan twi
 
 Also, the character goes to her initial position after losing one of the lives, but loses completely after losing 2 lives
 
-
+### Overall, I had a lot of fun doing this game. Hopefully, I will continue working on my skills and will eventually be able to do a class for my spritesheets❤
