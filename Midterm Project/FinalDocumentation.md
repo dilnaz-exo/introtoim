@@ -45,3 +45,7 @@ That's why I decided to switch from spritesheets to a normal image and make a cl
 
 ## Problems with the grid:
 I think it was very valuable for me to actually talk to professor about the issue I had with the grid, because my maze was a reactangle, not a square. It was really nice to find a bug in a code, and solving it was even nicer. Something that I actually understood from this issue is that the extensive use of print() function is actually very helpful especially when the code is not giving any errors but it's still not working the way it is expected to.
+
+This is how it looked after professor and I debugged the grid code:
+
+<img width="1000" alt="Screen Shot 2022-03-11 at 00 36 46" src="https://user-images.githubusercontent.com/90758768/157750149-06170020-05da-4944-b0f9-83e621402b92.png">
