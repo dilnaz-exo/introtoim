@@ -33,8 +33,12 @@ I realized that I couldn't make a class for my sprites no matter how hard I trie
 
 <img width="506" alt="Screen Shot 2022-03-11 at 00 29 09" src="https://user-images.githubusercontent.com/90758768/157749125-bea13501-f3f0-405d-bc3f-5df5acf8ffdd.png">
 
-I did all the animations when moving and everything was working nicely:
+I did all the animations when moving and everything was working nicely. As you can see my character is animated when it's running to different sides.
 
 https://user-images.githubusercontent.com/90758768/157749196-e2043902-0560-4751-b4b5-aa701543c516.mov
 
+However, the problem was that the character was running through the maze blocks, and to fix that issue I used getCurrValue, but it wasn't working for me for various reasons:
+1) problems with the grid
+2) the fact that i didnt have classes for my objects so i didnt know how to get x and y values for them
 
+That's why I decided to switch from spritesheets to a normal image and make a class with it, because I was much more comfrotable with it.
