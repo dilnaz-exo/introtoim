@@ -42,3 +42,6 @@ However, the problem was that the character was running through the maze blocks,
 2) the fact that i didnt have classes for my objects so i didnt know how to get x and y values for them
 
 That's why I decided to switch from spritesheets to a normal image and make a class with it, because I was much more comfrotable with it.
+
+## Problems with the grid:
+I think it was very valuable for me to actually talk to professor about the issue I had with the grid, because my maze was a reactangle, not a square. It was really nice to find a bug in a code, and solving it was even nicer. Something that I actually understood from this issue is that the extensive use of print() function is actually very helpful especially when the code is not giving any errors but it's still not working the way it is expected to.
