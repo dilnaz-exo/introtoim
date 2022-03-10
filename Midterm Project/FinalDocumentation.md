@@ -29,4 +29,12 @@ when it's attacking it's getting the run sprite:
 ![Attack](https://user-images.githubusercontent.com/90758768/157748486-bc028b86-7cd0-47eb-9cc3-0d001ba0a29e.png)
 
 ## Problems I faced with these sprites
-I realized that I couldn't make a class for my sprites no matter how hard I tried, and I think that the problem was passing all the values and arguments to the objects which is why I kept errors like "object undefined" or "function undefined". This made me really frustrated, but for some time I kept trying to make a class because i thought that the further actions would also depend on that. However, later I decided to work on something that I actually feel comfortable about.
+I realized that I couldn't make a class for my sprites no matter how hard I tried, and I think that the problem was passing all the values and arguments to the objects which is why I kept errors like "object undefined" or "function undefined". This made me really frustrated, but for some time I kept trying to make a class because i thought that the further actions would also depend on that. However, later I decided to work on something that I actually feel comfortable about. Thus, I kept working on my huntress object in the main sketch.js:
+
+<img width="506" alt="Screen Shot 2022-03-11 at 00 29 09" src="https://user-images.githubusercontent.com/90758768/157749125-bea13501-f3f0-405d-bc3f-5df5acf8ffdd.png">
+
+I did all the animations when moving and everything was working nicely:
+
+https://user-images.githubusercontent.com/90758768/157749196-e2043902-0560-4751-b4b5-aa701543c516.mov
+
+
