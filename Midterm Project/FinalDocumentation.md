@@ -27,3 +27,6 @@ when it's moving it's getting the run sprite:
 when it's attacking it's getting the run sprite:
 
 ![Attack](https://user-images.githubusercontent.com/90758768/157748486-bc028b86-7cd0-47eb-9cc3-0d001ba0a29e.png)
+
+## Problems I faced with these sprites
+I realized that I couldn't make a class for my sprites no matter how hard I tried, and I think that the problem was passing all the values and arguments to the objects which is why I kept errors like "object undefined" or "function undefined". This made me really frustrated, but for some time I kept trying to make a class because i thought that the further actions would also depend on that. However, later I decided to work on something that I actually feel comfortable about.
