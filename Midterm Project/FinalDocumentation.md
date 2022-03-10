@@ -64,3 +64,12 @@ This is the maze game screen:
 
 <img width="1004" alt="Screen Shot 2022-03-11 at 00 43 20" src="https://user-images.githubusercontent.com/90758768/157751160-9d8fc2e2-83fa-48c4-b6ed-1459a32144b5.png">
 
+This is the screen when the game is won and all the coins are collected (the screen displayes the score amount):
+
+<img width="994" alt="Screen Shot 2022-03-11 at 00 45 43" src="https://user-images.githubusercontent.com/90758768/157751530-8d8da532-a045-4691-98fd-79e34ecd6799.png">
+
+This is the screen when the game is lost because character touched the titan twice and lost all the lives:
+
+
+
+
