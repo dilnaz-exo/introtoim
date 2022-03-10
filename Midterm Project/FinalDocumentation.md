@@ -49,3 +49,6 @@ I think it was very valuable for me to actually talk to professor about the issu
 This is how it looked after professor and I debugged the grid code:
 
 <img width="1000" alt="Screen Shot 2022-03-11 at 00 36 46" src="https://user-images.githubusercontent.com/90758768/157750149-06170020-05da-4944-b0f9-83e621402b92.png">
+
+## Adding more objects:
+As I added my character already, I decided to start working on my coins and bad characters as well. In the process of doing it, I worked on the "collecting coins" and getting points part of the game.
