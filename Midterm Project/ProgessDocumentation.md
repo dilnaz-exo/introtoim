@@ -1,4 +1,4 @@
-# DOCUMENTATION OF MY MIDTERM GAME PROGRESS 📌
+# MAR 3RD DOCUMENTATION OF MY MIDTERM GAME PROGRESS 📌
 
 ## Game Link:
 https://editor.p5js.org/ayedilnaz/sketches/iaIIQcAif - link to the main page of my game
