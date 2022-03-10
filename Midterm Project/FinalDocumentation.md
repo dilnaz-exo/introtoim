@@ -51,7 +51,7 @@ This is how it looked after professor and I debugged the grid code:
 <img width="1000" alt="Screen Shot 2022-03-11 at 00 36 46" src="https://user-images.githubusercontent.com/90758768/157750149-06170020-05da-4944-b0f9-83e621402b92.png">
 
 ## Adding more objects:
-As I added my character already, I decided to start working on my coins and bad characters as well. In the process of doing it, I worked on the "collecting coins" and getting points part of the game. As you can see from the screenshot, even though the character is exactly touching the coin, the coin is not disappearing and the points are not getting added. That was something that I tried working on and I decided to use some basic if statement to ensure that when character and coin are touched, points should be added. Then, I used the same logic to other objects like titan too.
+As I added my character already, I decided to start working on my coins and bad characters as well. In the process of doing it, I worked on the "collecting coins" and getting points part of the game. As you can see from the screenshot, even though the character is exactly touching the coin, the coin is not disappearing and the points are not getting added. That was something that I tried working on and I decided to use some basic if statement to ensure that when character and coin are touched, points should be added. Then, I used the same logic to other objects like titan too. As you can see, there is the timer displayed, but in the actual game I decided to delete that because my game was more not of completing the maze fastly, but about collecting all the coins and escaping titans.
 
 <img width="970" alt="Screen Shot 2022-03-11 at 00 39 10" src="https://user-images.githubusercontent.com/90758768/157750528-5fe697fa-46e3-4dc8-9358-7962b18c5e31.png">
 
@@ -59,4 +59,8 @@ As I added my character already, I decided to start working on my coins and bad 
 This is the inital game screen where the user can read all the instructions and start the game by pressing space:
 
 <img width="982" alt="Screen Shot 2022-03-11 at 00 42 21" src="https://user-images.githubusercontent.com/90758768/157750995-df63cced-20a9-41f5-92d3-0267140f73b9.png">
+
+This is the maze game screen:
+
+<img width="1004" alt="Screen Shot 2022-03-11 at 00 43 20" src="https://user-images.githubusercontent.com/90758768/157751160-9d8fc2e2-83fa-48c4-b6ed-1459a32144b5.png">
 
