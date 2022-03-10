@@ -70,6 +70,8 @@ This is the screen when the game is won and all the coins are collected (the scr
 
 This is the screen when the game is lost because character touched the titan twice and lost all the lives:
 
+<img width="989" alt="Screen Shot 2022-03-11 at 00 47 50" src="https://user-images.githubusercontent.com/90758768/157751796-96e626f2-be61-4d61-86f4-eab4a70ea9d3.png">
 
+Also, the character goes to her initial position after losing one of the lives, but loses completely after losing 2 lives
 
 
