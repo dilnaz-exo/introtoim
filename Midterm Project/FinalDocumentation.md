@@ -55,3 +55,8 @@ As I added my character already, I decided to start working on my coins and bad 
 
 <img width="970" alt="Screen Shot 2022-03-11 at 00 39 10" src="https://user-images.githubusercontent.com/90758768/157750528-5fe697fa-46e3-4dc8-9358-7962b18c5e31.png">
 
+## The actual game
+This is the inital game screen where the user can read all the instructions and start the game by pressing space:
+
+<img width="982" alt="Screen Shot 2022-03-11 at 00 42 21" src="https://user-images.githubusercontent.com/90758768/157750995-df63cced-20a9-41f5-92d3-0267140f73b9.png">
+
