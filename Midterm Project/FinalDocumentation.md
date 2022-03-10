@@ -15,3 +15,15 @@ https://editor.p5js.org/ayedilnaz/sketches/SNoxNxA6I
 
 https://user-images.githubusercontent.com/90758768/157747856-de7e2ed5-ccd5-4458-a2d3-68398fb1df71.mov
 
+## Expectations: sprites
+So before actually working on the code, I knew that I wanted to make a game with different animated characters (the huntress, goblins and so on), and even installed all the necessary spritesheets from the website called itch.io . I thought that there will be different actions that my characters will have - idling, running and attacking, which is why I uploaded the sprites for each of those actions. My initial idea was that when the character is not moving it's getting the idle sprite:
+
+![hIdle](https://user-images.githubusercontent.com/90758768/157748385-f04ed364-2080-4c36-ab67-fa4ca8fbb894.png)
+
+when it's moving it's getting the run sprite:
+
+![hRun](https://user-images.githubusercontent.com/90758768/157748438-95a93c2d-689c-4dab-ad51-51454c02aa86.png)
+
+when it's attacking it's getting the run sprite:
+
+![Attack](https://user-images.githubusercontent.com/90758768/157748486-bc028b86-7cd0-47eb-9cc3-0d001ba0a29e.png)
