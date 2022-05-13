@@ -62,6 +62,7 @@ Here's how the design turned out:
 # Japan Screen
 <img width="797" alt="Screen Shot 2022-05-09 at 15 54 59" src="https://user-images.githubusercontent.com/90758768/168336392-b8e26010-993c-47b7-b4cc-98a5227447c4.png">
 
-
+# How I solved the problems:
+Regarding the obstacles, I decided to leave it as it is. However, when the user goes through all the countries and restarts the game, I just increased the number of obstacles, so that the level gets higher. This way I used the "it's a feature, not a bug" mentality and it actually turned out great! When other people were playing, they particualrly enjoyed that the level was increasing every time they restarted the game.
 
 
