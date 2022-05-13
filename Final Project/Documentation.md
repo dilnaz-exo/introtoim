@@ -155,3 +155,5 @@ The powerpoint presentation can be found [here](https://docs.google.com/presenta
 # My personal feelings about the project: (Dilnaz)
 Professor, I would like to express my sincere gratitude to you and to this course. Before taking Intro to IM, i took Intro to CS, which was easy at the beginning, but after a while, it became really hard for me to do even the simplest codes. I kept forgetting the logic of the code and everything. This time, when I was making the game and was relying completely on my understanding of OOP, classes, functions and everything, I realized that I actually learned something particularly useful to myself. I learned how to write simple to more complicated codes which also makes me really proud of myself. During this project, whenever I had problems, I didn't run to google or to professor, I just tried to look at the problem from different angles. I loved the sense of project-based thinking that this project gave me.
 
+![b8a75a64-f601-404d-a1ac-54346a37b0aa](https://user-images.githubusercontent.com/90758768/168345078-d903186a-479e-4e50-bf7f-e8e822169043.JPG)
+
