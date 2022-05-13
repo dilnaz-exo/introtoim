@@ -62,11 +62,18 @@ Here's how the design turned out:
 # Japan Screen
 <img width="797" alt="Screen Shot 2022-05-09 at 15 54 59" src="https://user-images.githubusercontent.com/90758768/168336392-b8e26010-993c-47b7-b4cc-98a5227447c4.png">
 
-# How I solved the problems: Obstacles:
+## How I solved the problems: Obstacles:
 Regarding the obstacles, I decided to leave it as it is. However, when the user goes through all the countries and restarts the game, I just increased the number of obstacles, so that the level gets higher. This way I used the "it's a feature, not a bug" mentality and it actually turned out great! When other people were playing, they particualrly enjoyed that the level was increasing every time they restarted the game. Here's a picture of my friend playing our game:
 
 ![IMG_2084](https://user-images.githubusercontent.com/90758768/168342010-9963ea94-55d4-4365-9087-3c995d7cb2c8.jpg)
 
-# Win/lose screen:
+## Win/lose screen:
+I decided to make separate gamescreens for the "lose" and "win" screens. Here's the code for the gameScreen = 4(win screen):
+<img width="581" alt="Screen Shot 2022-05-13 at 22 11 42" src="https://user-images.githubusercontent.com/90758768/168342808-7ad05c3a-b27d-49a9-972b-0a9467a2f1b9.png">
+
+Here's the code for the gameScreen = 5 (lose screen):
+<img width="588" alt="Screen Shot 2022-05-13 at 22 12 29" src="https://user-images.githubusercontent.com/90758768/168342908-1211e6c6-b75a-41d9-aac7-b551f24e1b7a.png">
+
+At the end, I could successfully solve all the issues and connect the arduino part to the p5 game.
 
 
