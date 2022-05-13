@@ -31,3 +31,6 @@ To do that, I created two different classes: a separate class for people and ano
 However, after running the code and trying to play it myself, I realized that the decision to put obstacles in those particular ways were lacking some logic to it. For example, why would grandpas walk down the road full of cars? Or why would someone place benches and trees in the middle of the road?
 I know that even though game developers can be as creative in their games as possible, I still find it important to keep some logic in mind. That's why I decided to develop my idea of the obstacles and put it in a different level:
 First of all, I decided to make 2 horizontal crosswalks on the roadso the grandpas will have to cross them. Here, I had some difficulties: I didn't know how to divide one class into two different constrains. For example, having half of the elder people cross just one crosswalk (constrained by particular heights) and another half of them cross another crosswalk (constrained by other values of height). 
+After that, I just decided to do this: in the setup function, I just divided the class into two and assigned to different constrained and randomized heights to the same class.
+<img width="500" alt="Screen Shot 2022-05-13 at 21 14 31" src="https://user-images.githubusercontent.com/90758768/168334629-4ded33c7-47a0-47c8-97a9-5059a629fc1e.png">
+
