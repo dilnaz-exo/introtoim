@@ -18,3 +18,8 @@ Adding a sightseeing experience to make the game feel more enjoyable.
 ### After starting the code, I had a small question to myself: what if I add some obstacles to the game so that the experience becomes more interesting? It must be really boring to just drive a car without anything exciting to that.
 This is what the game looked like prior adding all the obstacles:
 <img width="589" alt="Screen Shot 2022-05-13 at 20 59 03" src="https://user-images.githubusercontent.com/90758768/168332460-3ce4f453-6113-4b36-a8c6-b7042ac86d75.png">
+It's definitely not the most appealing game, which made me think of the ways to make it more fun and exciting for the users to play it.
+### first thing I thought of: making people (specifically, elder people) cross the road so that the car would need to avoid them.
+### second thing: adding benches on the road so the user should drive the way to not crash into those benches randomly placed on the road.
+To do that, I created two different classes: a separate class for people and another class for benches:
+<img width="511" alt="Screen Shot 2022-05-13 at 21 02 17" src="https://user-images.githubusercontent.com/90758768/168332931-42001fe1-9df3-473a-80fb-d5732615246d.png">
