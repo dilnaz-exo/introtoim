@@ -15,3 +15,6 @@ places. Thus, we decided to choose 3 countries - travel destinations where the u
 - Adding some spice:
 Adding a sightseeing experience to make the game feel more enjoyable.
 
+### After starting the code, I had a small question to myself: what if I add some obstacles to the game so that the experience becomes more interesting? It must be really boring to just drive a car without anything exciting to that.
+This is what the game looked like prior adding all the obstacles:
+<img width="589" alt="Screen Shot 2022-05-13 at 20 59 03" src="https://user-images.githubusercontent.com/90758768/168332460-3ce4f453-6113-4b36-a8c6-b7042ac86d75.png">
