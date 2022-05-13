@@ -24,3 +24,10 @@ It's definitely not the most appealing game, which made me think of the ways to 
 To do that, I created two different classes: a separate class for people and another class for benches:
 <img width="511" alt="Screen Shot 2022-05-13 at 21 02 17" src="https://user-images.githubusercontent.com/90758768/168332931-42001fe1-9df3-473a-80fb-d5732615246d.png">
 <img width="529" alt="Screen Shot 2022-05-13 at 21 02 58" src="https://user-images.githubusercontent.com/90758768/168333017-2bbc3cf1-b7ba-4d0e-9362-05e1d92bd0a3.png">
+
+### as a result, this is how the game started looking like:
+<img width="1440" alt="Screen Shot 2022-05-09 at 12 33 03" src="https://user-images.githubusercontent.com/90758768/168333409-0fc3877f-babc-41d1-a29c-0220328d0ad1.png">
+
+However, after running the code and trying to play it myself, I realized that the decision to put obstacles in those particular ways were lacking some logic to it. For example, why would grandpas walk down the road full of cars? Or why would someone place benches and trees in the middle of the road?
+I know that even though game developers can be as creative in their games as possible, I still find it important to keep some logic in mind. That's why I decided to develop my idea of the obstacles and put it in a different level:
+First of all, I decided to make 2 horizontal crosswalks on the roadso the grandpas will have to cross them. Here, I had some difficulties: I didn't know how to divide one class into two different constrains. For example, having half of the elder people cross just one crosswalk (constrained by particular heights) and another half of them cross another crosswalk (constrained by other values of height). 
