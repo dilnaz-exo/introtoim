@@ -47,5 +47,9 @@ Instead of benches on the road, I decided to add stop signs and a traffic light 
 # Japan Screen
 <img width="797" alt="Screen Shot 2022-05-09 at 15 54 59" src="https://user-images.githubusercontent.com/90758768/168336392-b8e26010-993c-47b7-b4cc-98a5227447c4.png">
 
+## Problems faced:
+### Obstacles:
+When the car touches any of the obstacles, it disappears not just from one country’s screen, but from all countries, because it’s one class. For example:
 
+### 
 
