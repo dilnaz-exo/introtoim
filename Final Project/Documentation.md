@@ -38,6 +38,21 @@ Instead of benches on the road, I decided to add stop signs and a traffic light 
 
 <img width="180" alt="Screen Shot 2022-05-13 at 21 16 25" src="https://user-images.githubusercontent.com/90758768/168334922-8ef9ebf5-7dac-474e-adf2-928a17715707.png">
 
+## Problems faced:
+### Obstacles:
+When the car touches any of the obstacles, it disappears not just from one country’s screen, but from all countries, because it’s one class. For example:
+<img width="507" alt="Screen Shot 2022-05-13 at 21 51 09" src="https://user-images.githubusercontent.com/90758768/168339963-bac5b02f-efe3-4a5a-ba9d-46e2fd4c3225.png">
+Here, the one obstacle will go away from all other screens if you hit it in one gamescreen.
+
+### Win/lose screen:
+When you complete the journey or lose by getting too many fines, there should be a win/lost screen. But when I put it, all the elements like obstacles stay on screen. 
+
+![WhatsApp Image 2022-05-09 at 3 56 42 PM](https://user-images.githubusercontent.com/90758768/168340598-1978f2cd-9c81-4b86-bdd7-ca6a6770561e.jpeg)
+
+### Design
+It was a bit challenging for me to make the design prettier. I’ve never been a fan of car-related games, so I didn’t know what to add.
+
+Here's how the design turned out:
 # Italy Screen
 <img width="793" alt="Screen Shot 2022-05-09 at 15 54 29" src="https://user-images.githubusercontent.com/90758768/168336327-9ee02ddd-fa5e-41c6-9407-7bf93c043aac.png">
 
@@ -47,9 +62,6 @@ Instead of benches on the road, I decided to add stop signs and a traffic light 
 # Japan Screen
 <img width="797" alt="Screen Shot 2022-05-09 at 15 54 59" src="https://user-images.githubusercontent.com/90758768/168336392-b8e26010-993c-47b7-b4cc-98a5227447c4.png">
 
-## Problems faced:
-### Obstacles:
-When the car touches any of the obstacles, it disappears not just from one country’s screen, but from all countries, because it’s one class. For example:
 
-### 
+
 
