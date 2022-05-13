@@ -23,3 +23,4 @@ It's definitely not the most appealing game, which made me think of the ways to 
 ### second thing: adding benches on the road so the user should drive the way to not crash into those benches randomly placed on the road.
 To do that, I created two different classes: a separate class for people and another class for benches:
 <img width="511" alt="Screen Shot 2022-05-13 at 21 02 17" src="https://user-images.githubusercontent.com/90758768/168332931-42001fe1-9df3-473a-80fb-d5732615246d.png">
+<img width="529" alt="Screen Shot 2022-05-13 at 21 02 58" src="https://user-images.githubusercontent.com/90758768/168333017-2bbc3cf1-b7ba-4d0e-9362-05e1d92bd0a3.png">
