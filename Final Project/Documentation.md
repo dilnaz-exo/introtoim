@@ -34,6 +34,7 @@ First of all, I decided to make 2 horizontal crosswalks on the roadso the grandp
 After that, I just decided to do this: in the setup function, I just divided the class into two and assigned to different constrained and randomized heights to the same class.
 <img width="500" alt="Screen Shot 2022-05-13 at 21 14 31" src="https://user-images.githubusercontent.com/90758768/168334629-4ded33c7-47a0-47c8-97a9-5059a629fc1e.png">
 Instead of benches on the road, I decided to add stop signs and a traffic light which, truly, looks more logical to actually be on the road.
+
 <img width="180" alt="Screen Shot 2022-05-13 at 21 16 25" src="https://user-images.githubusercontent.com/90758768/168334922-8ef9ebf5-7dac-474e-adf2-928a17715707.png">
 
 
