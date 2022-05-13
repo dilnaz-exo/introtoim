@@ -38,4 +38,14 @@ Instead of benches on the road, I decided to add stop signs and a traffic light 
 
 <img width="180" alt="Screen Shot 2022-05-13 at 21 16 25" src="https://user-images.githubusercontent.com/90758768/168334922-8ef9ebf5-7dac-474e-adf2-928a17715707.png">
 
+# Italy Screen
+<img width="793" alt="Screen Shot 2022-05-09 at 15 54 29" src="https://user-images.githubusercontent.com/90758768/168336327-9ee02ddd-fa5e-41c6-9407-7bf93c043aac.png">
+
+# France Screen
+<img width="798" alt="Screen Shot 2022-05-09 at 15 54 48" src="https://user-images.githubusercontent.com/90758768/168336365-54401390-be78-4dbc-ae5e-d69ba61bb34b.png">
+
+# Japan Screen
+<img width="797" alt="Screen Shot 2022-05-09 at 15 54 59" src="https://user-images.githubusercontent.com/90758768/168336392-b8e26010-993c-47b7-b4cc-98a5227447c4.png">
+
+
 
