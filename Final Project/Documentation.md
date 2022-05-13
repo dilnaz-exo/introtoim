@@ -151,5 +151,6 @@ The powerpoint presentation can be found [here](https://docs.google.com/presenta
 ![p1](https://github.com/lizadat/Intro_to_IM/blob/1ecf91c3932a092285b9a5308e4bde9500a78a2b/Final_Project/p1.jpeg)
 ![p2](https://github.com/lizadat/Intro_to_IM/blob/1ecf91c3932a092285b9a5308e4bde9500a78a2b/Final_Project/p2.jpeg)
 
-* This is me, holding the car and being happy to be done with this class.
-![p3](https://github.com/lizadat/Intro_to_IM/blob/1ecf91c3932a092285b9a5308e4bde9500a78a2b/Final_Project/p3.jpeg)
+
+# My personal feelings about the project: (Dilnaz)
+Professor, I would like to express my sincere gratitude to you and to this course. Before taking Intro to IM, i took Intro to CS, which was easy at the beginning, but after a while, it became really hard for me to do even the simplest codes. I kept forgetting the logic of the code and everything. This time, when I was making the game and was relying completely on my understanding of OOP, classes, functions and everything, I realized that I actually learned something particularly useful to myself. I learned how to write simple to more complicated codes which also makes me really proud of myself. During this project, whenever I had problems, I didn't run to google or to professor, I just tried to look at the problem from different angles. I loved the sense of project-based
